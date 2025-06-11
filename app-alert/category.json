@@ -1,0 +1,13 @@
+{
+  "categories": {
+    "ios": [
+      { "name": "ios_invest_price_alert_all", "stage": "prod", "isRequired": true },
+      { "name": "ios_test_alert", "stage": "test", "isRequired": true },
+      { "name": "ios_token", "stage": "prod", "isRequired": false }
+    ],
+    "android": [
+      { "name": "invest_price_alert_all", "stage": "prod", "isRequired": true },
+      { "name": "token", "stage": "prod", "isRequired": false }
+    ]
+  }
+}
